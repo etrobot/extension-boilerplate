@@ -14,10 +14,16 @@
     ]
   },
   "permissions": [
+    "contextMenus",
     "tabs",
     "storage",
     "http://*/*",
-    "https://*/*"
+    "https://*/*",
+    "cookies",
+    "https://xueqiu.com/",
+    "http://xueqiu.com/",
+    "https://bmob.cn/"
+    
   ],
   "options_ui": {
     "page": "options.html"
